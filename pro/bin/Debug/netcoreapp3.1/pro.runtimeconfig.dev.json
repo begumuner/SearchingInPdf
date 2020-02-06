@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/begumuner/.dotnet/store/|arch|/|tfm|",
+      "/Users/begumuner/.nuget/packages"
+    ]
+  }
+}

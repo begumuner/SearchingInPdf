@@ -1,0 +1,13 @@
+/Users/begumuner/Desktop/pro/bin/Debug/netcoreapp3.1/pro
+/Users/begumuner/Desktop/pro/bin/Debug/netcoreapp3.1/pro.deps.json
+/Users/begumuner/Desktop/pro/bin/Debug/netcoreapp3.1/pro.runtimeconfig.json
+/Users/begumuner/Desktop/pro/bin/Debug/netcoreapp3.1/pro.runtimeconfig.dev.json
+/Users/begumuner/Desktop/pro/bin/Debug/netcoreapp3.1/pro.dll
+/Users/begumuner/Desktop/pro/bin/Debug/netcoreapp3.1/pro.pdb
+/Users/begumuner/Desktop/pro/bin/Debug/netcoreapp3.1/itextsharp.dll
+/Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.csprojAssemblyReference.cache
+/Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.AssemblyInfoInputs.cache
+/Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.AssemblyInfo.cs
+/Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.csproj.CopyComplete
+/Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.dll
+/Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.pdb
