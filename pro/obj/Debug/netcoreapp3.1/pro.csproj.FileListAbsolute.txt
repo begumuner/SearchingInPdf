@@ -11,3 +11,16 @@
 /Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.csproj.CopyComplete
 /Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.dll
 /Users/begumuner/Desktop/pro/obj/Debug/netcoreapp3.1/pro.pdb
+/Users/begumuner/SearchingInPdf/pro/bin/Debug/netcoreapp3.1/pro
+/Users/begumuner/SearchingInPdf/pro/bin/Debug/netcoreapp3.1/pro.deps.json
+/Users/begumuner/SearchingInPdf/pro/bin/Debug/netcoreapp3.1/pro.runtimeconfig.json
+/Users/begumuner/SearchingInPdf/pro/bin/Debug/netcoreapp3.1/pro.runtimeconfig.dev.json
+/Users/begumuner/SearchingInPdf/pro/bin/Debug/netcoreapp3.1/pro.dll
+/Users/begumuner/SearchingInPdf/pro/bin/Debug/netcoreapp3.1/pro.pdb
+/Users/begumuner/SearchingInPdf/pro/bin/Debug/netcoreapp3.1/itextsharp.dll
+/Users/begumuner/SearchingInPdf/pro/obj/Debug/netcoreapp3.1/pro.csprojAssemblyReference.cache
+/Users/begumuner/SearchingInPdf/pro/obj/Debug/netcoreapp3.1/pro.AssemblyInfoInputs.cache
+/Users/begumuner/SearchingInPdf/pro/obj/Debug/netcoreapp3.1/pro.AssemblyInfo.cs
+/Users/begumuner/SearchingInPdf/pro/obj/Debug/netcoreapp3.1/pro.csproj.CopyComplete
+/Users/begumuner/SearchingInPdf/pro/obj/Debug/netcoreapp3.1/pro.dll
+/Users/begumuner/SearchingInPdf/pro/obj/Debug/netcoreapp3.1/pro.pdb

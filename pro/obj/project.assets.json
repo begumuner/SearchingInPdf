@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/begumuner/Desktop/pro/pro.csproj",
+      "projectUniqueName": "/Users/begumuner/SearchingInPdf/pro/pro.csproj",
       "projectName": "pro",
-      "projectPath": "/Users/begumuner/Desktop/pro/pro.csproj",
+      "projectPath": "/Users/begumuner/SearchingInPdf/pro/pro.csproj",
       "packagesPath": "/Users/begumuner/.nuget/packages/",
-      "outputPath": "/Users/begumuner/Desktop/pro/obj/",
+      "outputPath": "/Users/begumuner/SearchingInPdf/pro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/begumuner/.nuget/NuGet/NuGet.Config"
